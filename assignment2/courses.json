@@ -1,0 +1,82 @@
+[
+    {
+        "Subject" : "SDEV",
+        "CatalogNbr" : "400",
+        "Title" : "Secure Programming in the Cloud",
+        "Credits" : "3",
+        "CourseId" : "1"
+        
+    },
+
+    {
+        "Subject" : "CMIS",
+        "CatalogNbr" : "242",
+        "Title" : "Intermediate Programming",
+        "Credits" : "3",
+        "CourseId" : "2"
+    },
+
+    {
+        "Subject" : "WRTG",
+        "CatalogNbr" : "393",
+        "Title" : "Advanced Technical Writing",
+        "Credits" : "3",
+        "CourseId" : "3"
+    },
+
+    {
+        "Subject" : "CMIS",
+        "CatalogNbr" : "102",
+        "Title" : "Algorithm Design",
+        "Credits" : "3",
+        "CourseId" : "4"
+    },
+
+    {
+        "Subject" : "SDEV",
+        "CatalogNbr" : "425",
+        "Title" : "Mitigating Software Vulnerabilities",
+        "Credits" : "3",
+        "CourseId" : "5"
+    },
+
+    {
+        "Subject" : "CMSC",
+        "CatalogNbr" : "495",
+        "Title" : "Computer Science Capstone",
+        "Credits" : "3",
+        "CourseId" : "6"
+    },
+
+    {
+        "Subject" : "CMSC",
+        "CatalogNbr" : "315",
+        "Title" : "Data Structures",
+        "Credits" : "3",
+        "CourseId" : "7"
+    },
+
+    {
+        "Subject" : "SDEV",
+        "CatalogNbr" : "300",
+        "Title" : "Secure Python Programming",
+        "Credits" : "3",
+        "CourseId" : "8"
+    },
+
+    {
+        "Subject" : "WRTG",
+        "CatalogNbr" : "112",
+        "Title" : "Academic Writing II",
+        "Credits" : "3",
+        "CourseId" : "9"
+    },
+
+    {
+        "Subject" : "CMIS",
+        "CatalogNbr" : "141",
+        "Title" : "Introductory Programming",
+        "Credits" : "3",
+        "CourseId" : "10"
+    }
+]
